@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:/Users/moon/Repoleved/Swift/hacking_with_swift/pachinko_spritekit/pachinko_spritekit/Content"
+      name = "Content">
+   </Group>
    <FileRef
       location = "self:pachinko_spritekit.xcodeproj">
    </FileRef>
