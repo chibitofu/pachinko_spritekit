@@ -139,7 +139,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     }
     
     func destroy(ball: SKNode) {
-        if let fireParticles = SKEmitterNode(fileNamed: "FireParticles") {
+        if let fireParticles = SKEmitterNode(fileNamed: "fire") {
             fireParticles.position = ball.position
             addChild(fireParticles)
         }
